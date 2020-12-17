@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-17T10:46:33" hostname="DESKTOP-P88O7Q1" time="0.001">
+  <properties/>
+  <testcase name="parseLine1()" classname="ParserTest" time="0.001"/>
+  <testcase name="parseLine3()" classname="ParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

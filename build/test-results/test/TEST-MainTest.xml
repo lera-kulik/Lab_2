@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-17T10:46:32" hostname="DESKTOP-P88O7Q1" time="0.574">
+  <properties/>
+  <testcase name="work()" classname="MainTest" time="0.574"/>
+  <system-out><![CDATA[A:\kulik2\lab2\src\main\resources\result.txt
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
